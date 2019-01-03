@@ -3,7 +3,7 @@
 
 *Dedicated to cypherpunks, and to whistleblowers past and future.*
 
-A publication of [Freedom of the Press Foundation](https://freedom.press/). Original version written by Micah Lee and published July 2013. Updated version written by Tommy Collison and published September 2015. Licensed as [Creative Commons Attribution 3.0 Unported](https://creativecommons.org/licenses/by/3.0/).
+Forked from a publication of [Freedom of the Press Foundation](https://freedom.press/). Original version written by Micah Lee and published July 2013. Updated version written by Tommy Collison and published September 2015. Reinterpreted and edited by [h3artbl33d](https://h3artbl33d.nl) January 2019. Licensed as [Creative Commons Attribution 3.0 Unported](https://creativecommons.org/licenses/by/3.0/).
 
 If you're interested in contributing to Encryption Works, or have ideas for what this guide should cover, please check out the project on [GitHub](https://github.com/freedomofpress/encryption-works/blob/master/CONTRIBUTING.md).
 
@@ -57,7 +57,9 @@ Since the revelations, Apple has been more publicly outspoken about its commitme
 
 While the rhetoric is promising, and there's evidence Apple is [telling](http://www.washingtonpost.com/business/technology/2014/09/25/68c4e08e-4344-11e4-9a15-137aa0153527_story.html) the truth, it's very hard to technically verify this. We’re forced to believe Cook. This is a step in the right direction, but we shouldn’t have to rely on blind trust for our online privacy. Such verification should be built into the software itself.
 
-This is why free and open-source software is more reliable in this regard. Free and open-source software is developed with open bug trackers, open mailing lists, open governing structures, and open-source code. While it's not impossible, free and open-source software makes it much more difficult for such projects to betray their users as Microsoft did.
+This is why free and open-source software might be more reliable in this regard. Free and open-source software is developed with open bug trackers, open mailing lists, open governing structures, and open-source code. While it's not impossible, free and open-source software makes it much more difficult for such projects to betray their users as Microsoft did.
+
+Though, is is no guarantee that open-source is more secure. There have been major security bugs in critical open-source software, like [OpenSSL](http://heartbleed.com). Some were uncovered after [more than twenty years](https://en.wikipedia.org/wiki/Shellshock_(software_bug)). 
 
 ### Types of Encryption
 
